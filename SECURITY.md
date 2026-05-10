@@ -20,7 +20,7 @@ of the project at risk.
 
 **How to report:**
 
-1. Open a [GitHub Security Advisory](https://github.com/your-username/devpath/security/advisories/new)
+1. Open a [GitHub Security Advisory](https://github.com/komalharshita/devpath/security/advisories/new)
    on this repository (private by default).
 2. Include a clear description of the vulnerability, steps to reproduce it,
    and your assessment of its impact.
